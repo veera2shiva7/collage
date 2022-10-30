@@ -1,0 +1,35 @@
+#footer {
+    background-color: blue;
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 700;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+#camera {
+    height: 350px;
+    width: 500px;
+    border: 3px;
+    border-style:solid;
+    border-color:yellow;
+}
+img{
+    border-radius:30px;
+    display:inline-block;
+
+}
+img:hover{
+    height:250px;
+    padding:20px;
+}
